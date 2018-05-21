@@ -1,0 +1,11 @@
+.App {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+
+.ant-menu-item {
+  width: 25%;
+  text-align: center;
+}
